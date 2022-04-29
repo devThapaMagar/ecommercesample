@@ -1,4 +1,4 @@
-<script>
+
     !(function (e, t) {
     "use strict";
     "object" == typeof module && "object" == typeof module.exports
@@ -7649,4 +7649,3 @@ document.querySelectorAll(".slide-menu-toggle").forEach(function (e) {
     });
 });
 
-</script>
